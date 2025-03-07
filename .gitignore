@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OMiX.FlagExplorer.API/bin/Debug/net8.0
+/OMiX.FlagExplorer.API/obj
+/OMiX.FlagExplorer.API.Test/bin/Debug/net8.0
+/OMiX.FlagExplorer.API.Test/obj
+/OMiX.FlagExplorer.Service/bin/Debug/net8.0
+/OMiX.FlagExplorer.Service/obj
+/OMiX.FlagExplorer.Service.Test/bin/Debug/net8.0
+/OMiX.FlagExplorer.Service.Test/obj
